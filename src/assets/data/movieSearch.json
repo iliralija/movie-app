@@ -1,0 +1,12 @@
+[
+    {
+        "imageUrl": "assets/images/card-image.png",
+        "title": "Movie #1 Title",
+        "description": "This is a short description for Movie #1 Title"
+      },
+      {
+        "imageUrl": "assets/images/card-image.png",
+        "title": "Movie #1 Title",
+        "description": "This is a short description for Movie #1 Title"
+      }
+]
